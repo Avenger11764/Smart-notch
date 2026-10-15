@@ -35,3 +35,7 @@ Feature ideas are welcome through the issue templates. This repository accepts d
 ## Updates
 
 Install and update through Microsoft Store. Only approved releases will be announced in [CHANGELOG.md](CHANGELOG.md). The update.json file supplies public version metadata to newer builds; it contains no application source.
+
+## Privacy
+
+Read the [Smart Notch Privacy Policy](PRIVACY.md) for local storage, online features and your controls.

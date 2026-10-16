@@ -22,7 +22,7 @@ Smart Notch Pro provides a one-time upgrade for:
 - Custom notch length, thickness and placement along supported screen edges.
 - Additional Pro controls described in the app's Buy Pro page.
 
-Availability depends on the installed Store version and market. Version 7.1.5 is prepared for Store submission, with roomier side panels, improved music controls and lyrics, taskbar hiding fixes, and removal of the automatic copied-link popup. Public availability is subject to Microsoft Store certification and rollout. Agent usage requires a supported signed-in account and provider-reported data; an open agent window alone does not guarantee quota access.
+Availability depends on the installed Store version and market. Version 7.1.6 is prepared for Store submission, with improved Pro ownership checks and restoration for redeemed promo codes. It includes the earlier side-panel, music-control, lyrics and taskbar fixes. Public availability is subject to Microsoft Store certification and rollout. Agent usage requires a supported signed-in account and provider-reported data; an open agent window alone does not guarantee quota access.
 
 ## Get help
 

@@ -1,5 +1,13 @@
 # Release notes
 
+## 7.1.6 — prepared for Store submission
+
+- Added Microsoft Store account ownership checks when the local Pro add-on license is missing, including for externally redeemed promo codes.
+- Restore purchases now starts a fresh check after any in-progress request and retries briefly for delayed ownership updates.
+- Checkout rechecks ownership after successful or already-owned results; a checkout result alone does not unlock Pro.
+
+The Store package is built and automated ownership checks passed. Redemption on the affected customer's account and public Store availability still need confirmation. After updating, select **Restore purchases** using the Microsoft Store account that redeemed the Pro code.
+
 ## 7.1.5 — prepared for Store submission
 
 - Roomier side-notch panels with larger, two-row navigation.

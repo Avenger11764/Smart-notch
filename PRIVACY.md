@@ -1,6 +1,8 @@
 # Smart Notch Privacy Policy
 
-**Last updated: 15 October 2026**
+**Last updated: 16 October 2026**
+
+**Current release reviewed: Smart Notch 7.1.5 for Windows.**
 
 This policy describes Smart Notch for Windows, including its Free features and optional Smart Notch Pro add-on, published by Dev_avinash (GitHub: Avenger11764). Features available to you depend on your installed version and settings.
 
@@ -9,10 +11,10 @@ This policy describes Smart Notch for Windows, including its Free features and o
 Smart Notch processes information to provide desktop controls, notifications and the features you enable:
 
 - **Clipboard:** copied text and, where supported and enabled, images, pinned items and timestamps. Clipboard contents can contain personal or sensitive information.
-- **Files and downloads:** names, paths, sizes and activity information for download indicators and files you place on the Drop Shelf. Opening, copying or saving a file performs the action you request.
+- **Files and downloads:** names, paths, sizes and activity information for download indicators and files you place on the Drop Shelf. The download monitor watches the local Downloads folder and can read recent download records from Chrome, Edge and Brave profile History databases to estimate progress, including target/current paths, byte counts and download state. This lookup uses the downloads table, not a list of visited web pages. Opening, copying or saving a file performs the action you request.
 - **Media and system information:** track titles, artists, album artwork, playback state, audio levels for visual effects, audio/Bluetooth device names, battery status, CPU/RAM and network statistics, and microphone/camera activity indicators. Activity indicators report device usage; they are not camera video or microphone recording features.
 - **Preferences and productivity data:** appearance settings, shortcuts, window positions, timers, tasks and related local state.
-- **Optional agent integrations:** provider and account identifiers (such as email and plan), usage counters and quota resets, session/project identifiers, paths, event descriptions, and commands or permission requests supplied by an agent integration. These events may include sensitive project information. Supported integrations may read local agent configuration or credentials, query a local agent service, or use the agent's signed-in account to request its usage/profile information.
+- **Agent and local Git integrations:** provider and account identifiers (such as email and plan), usage counters and quota resets, session/project identifiers, paths, event descriptions, and commands or permission requests supplied by an agent integration. Local Git monitoring reads information from watched repositories, including repository paths and commit or working-tree activity. Installing notification hooks changes the selected agent or repository hook configuration so it can send events to Smart Notch over a local connection. These events may include sensitive project information. Supported integrations may read local agent configuration or credentials, query a local agent service, or use the agent's signed-in account to request its usage/profile information.
 - **Diagnostics:** local diagnostic logs may contain errors, paths, device details and operational events.
 
 ## Local storage and retention
@@ -40,7 +42,7 @@ The app does not implement an advertising tracker or a developer-operated upload
 
 ## Your choices
 
-Use the available widget and integration settings to turn off features you do not want, disconnect agent connections, remove saved items and manage notifications. Availability of individual controls varies by edition and version. Exiting Smart Notch stops its ongoing processing. You can also manage provider permissions and revoke credentials through the provider's own application or account settings.
+Use the available settings to manage visible widgets and notifications, disconnect integrations, and remove saved history items. A visibility setting is not necessarily a data-processing switch: in version 7.1.5, clipboard monitoring starts with the app, and the main interface requests weather on startup even when its weather widget is hidden. Removing the copied-link popup does not stop clipboard history capture. Some detected integrations can initialize automatically or reconnect from saved settings. Availability of individual controls varies by edition and version. Exit Smart Notch to stop its ongoing processing; clearing existing history does not prevent new items from being captured while the app remains running. You can also manage provider permissions and revoke credentials through the provider's own application or account settings.
 
 To request help accessing or removing locally stored app information, contact support. We cannot remotely read or erase data that is stored only on your computer. Microsoft and other providers manage data stored in their own services.
 

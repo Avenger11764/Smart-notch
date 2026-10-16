@@ -12,7 +12,7 @@ This is the public product and support repository. The application source is mai
 
 Free includes the basic dashboard, media controls, system/network indicators, focus tools and copied-text history with Copy.
 
-The upcoming Pro update adds a one-time upgrade for:
+Smart Notch Pro provides a one-time upgrade for:
 
 - Notchy: supported agent notifications, activity, approvals, account usage and the detachable desktop screen.
 - Quick Apps for launching your favorite apps.
@@ -22,7 +22,7 @@ The upcoming Pro update adds a one-time upgrade for:
 - Custom notch length, thickness and placement along supported screen edges.
 - Additional Pro controls described in the app's Buy Pro page.
 
-Availability depends on the installed Store version. Version 7.1.0 is a release candidate; its Pro purchase flow has not yet completed real Store purchase/restore testing or certification. Agent usage requires a supported signed-in account and provider-reported data; an open agent window alone does not guarantee quota access.
+Availability depends on the installed Store version and market. Version 7.1.5 is prepared for Store submission, with roomier side panels, improved music controls and lyrics, taskbar hiding fixes, and removal of the automatic copied-link popup. Public availability is subject to Microsoft Store certification and rollout. Agent usage requires a supported signed-in account and provider-reported data; an open agent window alone does not guarantee quota access.
 
 ## Get help
 
@@ -34,7 +34,7 @@ Feature ideas are welcome through the issue templates. This repository accepts d
 
 ## Updates
 
-Install and update through Microsoft Store. Only approved releases will be announced in [CHANGELOG.md](CHANGELOG.md). The update.json file supplies public version metadata to newer builds; it contains no application source.
+Install and update through Microsoft Store. [CHANGELOG.md](CHANGELOG.md) distinguishes prepared updates from published releases. The update.json file supplies published version metadata to newer builds; it contains no application source.
 
 ## Privacy
 

@@ -1,1 +1,10 @@
-{"version":"7.0.6","changelog":[]}
+{
+  "version": "7.1.6",
+  "changelog": [
+    "Improved Pro restoration for redeemed promo codes with Microsoft Store account ownership checks and retry support.",
+    "Roomier side-notch panels with larger navigation buttons, visible music controls and dedicated lyrics.",
+    "Improved taskbar hiding for Settings and fullscreen music.",
+    "Removed the automatic copied-link popup while keeping clipboard history.",
+    "Smart Notch Pro: one-time Microsoft Store upgrade with purchase restoration, Notchy desktop screens and agent integrations."
+  ]
+}

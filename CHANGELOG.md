@@ -1,12 +1,23 @@
 # Release notes
 
-## 7.1.6 — prepared for Store submission
+## 7.1.7 — released
+
+- Improved window-preview responsiveness and fixed a desktop-handle leak.
+- Fixed enlarged side-notch panels extending beyond the screen.
+- Fullscreen music centers artwork and controls when synced lyrics are unavailable.
+- Added a 12-hour / 24-hour clock choice below Style in General settings.
+- Improved update detection and clearer update-check messages.
+- Floating pill layout with configurable distance from the screen edge.
+
+Available through Microsoft Store. Update availability can vary by device and market.
+
+## 7.1.6 — released
 
 - Added Microsoft Store account ownership checks when the local Pro add-on license is missing, including for externally redeemed promo codes.
 - Restore purchases now starts a fresh check after any in-progress request and retries briefly for delayed ownership updates.
 - Checkout rechecks ownership after successful or already-owned results; a checkout result alone does not unlock Pro.
 
-The Store package is built and automated ownership checks passed. Redemption on the affected customer's account and public Store availability still need confirmation. After updating, select **Restore purchases** using the Microsoft Store account that redeemed the Pro code.
+After updating, select **Restore purchases** using the Microsoft Store account that redeemed the Pro code.
 
 ## 7.1.5 — prepared for Store submission
 
@@ -30,4 +41,4 @@ Subsequent builds corrected Store checkout integration and improved the Pro purc
 
 ## Earlier versions
 
-See the Microsoft Store listing for the version currently offered to your device. The initial public update metadata retains the previous source version, 7.0.6, until a newer release is approved.
+See the Microsoft Store listing for the version currently offered to your device. The public update feed now advertises the released 7.1.7 version.

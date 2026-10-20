@@ -1,5 +1,15 @@
 # Release notes
 
+## 7.1.8 — released
+
+- Replaced background PowerShell hardware helpers with native Windows operations.
+- Improved download monitoring, clipboard handling and background worker recovery.
+- Improved window cleanup and positioning when display settings change.
+- Added local crash and responsiveness diagnostics to help investigate failures.
+- Fixed clipped text in notification cards.
+
+Available through Microsoft Store. Update availability can vary by device and market.
+
 ## 7.1.7 — released
 
 - Improved window-preview responsiveness and fixed a desktop-handle leak.
@@ -41,4 +51,4 @@ Subsequent builds corrected Store checkout integration and improved the Pro purc
 
 ## Earlier versions
 
-See the Microsoft Store listing for the version currently offered to your device. The public update feed now advertises the released 7.1.7 version.
+See the Microsoft Store listing for the version currently offered to your device. The public update feed now advertises the released 7.1.8 version.

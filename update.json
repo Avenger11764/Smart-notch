@@ -1,10 +1,10 @@
 {
-  "version": "7.1.7",
+  "version": "7.1.8",
   "changelog": [
-    "Improved window-preview responsiveness and fixed a resource leak.",
-    "Fixed enlarged side-notch panels extending beyond the screen.",
-    "Fullscreen music centers artwork and controls when synced lyrics are unavailable.",
-    "Added a 12-hour / 24-hour clock option under General Display settings.",
-    "Improved update detection and clearer update-check messages."
+    "Replaced background PowerShell hardware helpers with native Windows operations.",
+    "Improved download monitoring, clipboard handling and background worker recovery.",
+    "Improved window cleanup and positioning when display settings change.",
+    "Added local crash and responsiveness diagnostics to help investigate failures.",
+    "Fixed clipped text in notification cards."
   ]
 }

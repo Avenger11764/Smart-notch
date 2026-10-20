@@ -22,7 +22,17 @@ Smart Notch Pro provides a one-time upgrade for:
 - Custom notch length, thickness and placement along supported screen edges.
 - Additional Pro controls described in the app's Buy Pro page.
 
-Version 7.1.7 is now available through Microsoft Store, with more responsive window previews, a resource-leak fix, improved side-notch sizing, centered fullscreen music when lyrics are unavailable, a 12/24-hour clock setting, and improved update detection. Availability can vary by device and market. Agent usage requires a supported signed-in account and provider-reported data; an open agent window alone does not guarantee quota access.
+Version 7.1.8 is now available through Microsoft Store, with native background monitoring, improved clipboard and download handling, window cleanup improvements and local reliability diagnostics. Availability can vary by device and market. Agent usage requires a supported signed-in account and provider-reported data; an open agent window alone does not guarantee quota access.
+
+## A closer look
+
+[Visit the website](https://smart-notch-windows.vercel.app/) · [Browse all 18 Store screenshots](screenshots/README.md)
+
+![Smart Notch dashboard](screenshots/01-free-dashboard.png)
+
+![Notchy desktop — Pro](screenshots/09-notchy-desktop.png)
+
+Screenshots use sample content. Free and Pro availability is labeled in each image.
 
 ## Get help
 

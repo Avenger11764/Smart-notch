@@ -1,5 +1,14 @@
 # Release notes
 
+## 7.1.9 — prepared for Store submission
+
+- Fixed clipped media text in the Pro dashboard.
+- Fixed dragging Shelf files to folders, the desktop and apps that accept files.
+- Agent completion notifications dismiss automatically, even while hovered; approval requests still require a response.
+- Added Settings → About → Troubleshooting shortcuts to local logs and crash dumps, without automatic uploads.
+
+This package is not yet confirmed available in Microsoft Store. The update feed remains on released version 7.1.8.
+
 ## 7.1.8 — released
 
 - Replaced background PowerShell hardware helpers with native Windows operations.

@@ -12,6 +12,7 @@
 - Notchy agent notifications: each agent has its own Notchy colour (Claude orange, Antigravity/Gemini blue, Codex green, Cursor indigo, Git pink), and hooks are re-connected automatically after updates.
 - Bars adapt to their size: shrinking a bar hides secondary details instead of cutting features off.
 - Stability: unexpected errors no longer close Smart Notch, a frozen notch recovers automatically, memory is kept in check and start-up at sign-in is lighter.
+- Bar and Pill: closed notifications no longer leave an invisible area that blocks clicks under the notch, auto-hide bars no longer stay hidden, the side-bar clipboard opens beside the bar instead of over it, and damaged layout settings recover automatically.
 - Fixed clipped media text in the Pro dashboard and dragging Shelf files to folders, the desktop and other apps.
 - Agent completion notifications dismiss automatically; approval requests still require a response.
 - Added Settings → About → Troubleshooting shortcuts to local logs and crash dumps, without automatic uploads.

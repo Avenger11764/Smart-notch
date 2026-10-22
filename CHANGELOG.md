@@ -5,6 +5,9 @@
 - **New (Pro): Invisibility Cloak.** Off by default — turn it on in Settings → Widgets. Then press Ctrl+Alt+H (or, with Shake to cloak enabled, shake the pointer left and right inside the open notch) to frost every window behind a privacy blur. Press Ctrl+Alt+H again, click anywhere or press Esc to clear it.
 - Midnight Liquid now uses the same dark molten-liquid effect as the Smart Notch website and fills the whole notch.
 - Compact Pro dashboard: cards sit closer together, nothing scrolls and the notch is smaller.
+- Fullscreen music: click the cover to flip it and see which app is playing; the Visualizer button cycles Waves, Bars, Ring, Mirror and Particles.
+- Synced lyrics follow the song smoothly and switch lines on time, using less processor time.
+- The side-notch dashboard fits completely, with a compact Quick Launch icon row.
 - Open at sign-in works reliably and your choice is kept; if Windows has Smart Notch disabled in Startup apps, the app explains how to turn it back on.
 - Notchy agent notifications: each agent has its own Notchy colour (Claude orange, Antigravity/Gemini blue, Codex green, Cursor indigo, Git pink), and hooks are re-connected automatically after updates.
 - Bars adapt to their size: shrinking a bar hides secondary details instead of cutting features off.

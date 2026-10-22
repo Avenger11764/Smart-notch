@@ -2,9 +2,15 @@
 
 ## 7.1.9 — prepared for Store submission
 
-- Fixed clipped media text in the Pro dashboard.
-- Fixed dragging Shelf files to folders, the desktop and apps that accept files.
-- Agent completion notifications dismiss automatically, even while hovered; approval requests still require a response.
+- **New (Pro): Invisibility Cloak.** Press Ctrl+Alt+H, or shake the pointer left and right inside the open notch, to frost every window behind a privacy blur. Press Ctrl+Alt+H again, click anywhere or press Esc to clear it. Turn it on or off in Settings → Widgets.
+- Midnight Liquid now uses the same dark molten-liquid effect as the Smart Notch website and fills the whole notch.
+- Compact Pro dashboard: cards sit closer together, nothing scrolls and the notch is smaller.
+- Open at sign-in works reliably and your choice is kept; if Windows has Smart Notch disabled in Startup apps, the app explains how to turn it back on.
+- Notchy agent notifications: each agent has its own Notchy colour (Claude orange, Antigravity/Gemini blue, Codex green, Cursor indigo, Git pink), and hooks are re-connected automatically after updates.
+- Bars adapt to their size: shrinking a bar hides secondary details instead of cutting features off.
+- Stability: unexpected errors no longer close Smart Notch, a frozen notch recovers automatically, memory is kept in check and start-up at sign-in is lighter.
+- Fixed clipped media text in the Pro dashboard and dragging Shelf files to folders, the desktop and other apps.
+- Agent completion notifications dismiss automatically; approval requests still require a response.
 - Added Settings → About → Troubleshooting shortcuts to local logs and crash dumps, without automatic uploads.
 
 This package is not yet confirmed available in Microsoft Store. The update feed remains on released version 7.1.8.

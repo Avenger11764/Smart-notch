@@ -1,6 +1,6 @@
 # Release notes
 
-## 7.1.9 — prepared for Store submission
+## 7.1.9 — released
 
 - **New (Pro): Invisibility Cloak.** Off by default — turn it on in Settings → Widgets. Then press Ctrl+Alt+H (or, with Shake to cloak enabled, shake the pointer left and right inside the open notch) to frost every window behind a privacy blur. Press Ctrl+Alt+H again, click anywhere or press Esc to clear it.
 - Midnight Liquid now uses the same dark molten-liquid effect as the Smart Notch website and fills the whole notch.
@@ -17,7 +17,7 @@
 - Agent completion notifications dismiss automatically; approval requests still require a response.
 - Added Settings → About → Troubleshooting shortcuts to local logs and crash dumps, without automatic uploads.
 
-This package is not yet confirmed available in Microsoft Store. The update feed remains on released version 7.1.8.
+Available through Microsoft Store. Update availability can vary by device and market.
 
 ## 7.1.8 — released
 

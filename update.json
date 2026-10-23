@@ -1,10 +1,13 @@
 {
-  "version": "7.1.8",
+  "version": "7.1.9",
   "changelog": [
-    "Replaced background PowerShell hardware helpers with native Windows operations.",
-    "Improved download monitoring, clipboard handling and background worker recovery.",
-    "Improved window cleanup and positioning when display settings change.",
-    "Added local crash and responsiveness diagnostics to help investigate failures.",
-    "Fixed clipped text in notification cards."
+    "New (Pro): Invisibility Cloak. Turn it on in Settings → Widgets, then press Ctrl+Alt+H to blur your screen instantly.",
+    "Midnight Liquid theme now matches the website's molten-liquid look.",
+    "Fullscreen music: tap the cover to see which app is playing, 5 visualizers, and smoother synced lyrics.",
+    "Compact dashboard with no scrolling; the side notch fits completely.",
+    "Notchy colours per agent: Claude orange, Gemini blue, Codex green.",
+    "Bar and Pill: layouts adapt to size, auto-hide is more reliable and notifications no longer block clicks.",
+    "Open at sign-in works reliably.",
+    "Stability: fewer crashes, a frozen notch recovers automatically and memory use is lower."
   ]
 }

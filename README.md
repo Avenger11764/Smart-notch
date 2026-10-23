@@ -22,7 +22,7 @@ Smart Notch Pro provides a one-time upgrade for:
 - Custom notch length, thickness and placement along supported screen edges.
 - Additional Pro controls described in the app's Buy Pro page.
 
-Version 7.1.8 is now available through Microsoft Store, with native background monitoring, improved clipboard and download handling, window cleanup improvements and local reliability diagnostics. Availability can vary by device and market. Agent usage requires a supported signed-in account and provider-reported data; an open agent window alone does not guarantee quota access.
+Version 7.1.9 is now available through Microsoft Store, with the new Pro Invisibility Cloak, a website-matched Midnight Liquid theme, fullscreen music upgrades, a compact dashboard, per-agent Notchy colours, more reliable Bar and Pill modes, dependable Open at sign-in and stability improvements. Availability can vary by device and market. Agent usage requires a supported signed-in account and provider-reported data; an open agent window alone does not guarantee quota access.
 
 ## A closer look
 

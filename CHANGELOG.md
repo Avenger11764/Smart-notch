@@ -1,5 +1,18 @@
 # Release notes
 
+## 7.1.11 — released
+
+- **Shake to cloak (Pro):** shaking the pointer over the notch now toggles the Invisibility Cloak right away and every time, on every mouse and touchpad. Previously it could react late or not at all on high-precision touchpads and gaming mice, at display scaling above 100%, or when the shake swung past the edge of the notch.
+
+## 7.1.10 — released
+
+- **Games and full-screen apps:** Smart Notch now hides itself while a full-screen game, video or presentation covers its screen, and no longer pops open in the middle of a game. It comes back when you leave, without taking focus.
+- **Always opens:** opening Smart Notch while it is already running now shows the notch and Settings instead of appearing to do nothing. If a previous copy froze, it is replaced automatically instead of blocking every launch until a restart. A start-up problem in one feature can no longer prevent the notch and tray icon from appearing.
+- **Fewer freezes:** copying from busy apps (for example a large Excel selection), switching to a window that is not responding, and files on offline network shares, OneDrive online-only files or sleeping USB drives can no longer freeze Smart Notch.
+- **Graphics stability:** if the graphics driver crashes repeatedly, Smart Notch starts in a safe software-rendering mode for a few days instead of closing.
+- **Troubleshooting:** Settings → About → Troubleshooting now opens the real log and crash-dump folders (previously Windows reported "Location is not available").
+- Fixed dragging files out of the Drop Shelf, the blank tray icon, and a downloads folder from the developer's PC being checked on every computer.
+
 ## 7.1.9 — released
 
 - **New (Pro): Invisibility Cloak.** Off by default — turn it on in Settings → Widgets. Then press Ctrl+Alt+H (or, with Shake to cloak enabled, shake the pointer left and right inside the open notch) to frost every window behind a privacy blur. Press Ctrl+Alt+H again, click anywhere or press Esc to clear it.
@@ -70,4 +83,4 @@ Subsequent builds corrected Store checkout integration and improved the Pro purc
 
 ## Earlier versions
 
-See the Microsoft Store listing for the version currently offered to your device. The public update feed now advertises the released 7.1.8 version.
+See the Microsoft Store listing for the version currently offered to your device. The public update feed advertises the latest released version.

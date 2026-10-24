@@ -1,6 +1,7 @@
 {
-  "version": "7.1.10",
+  "version": "7.1.11",
   "changelog": [
+    "Shake to cloak (Pro) now works right away on every mouse and touchpad.",
     "Smart Notch hides during full-screen games, videos and presentations, and no longer pops open mid-game.",
     "Opening Smart Notch always works: a second launch shows the notch and Settings, and a frozen copy is replaced automatically.",
     "Fixed freezes from copying in busy apps, frozen windows, and offline network or USB drives.",

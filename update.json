@@ -1,13 +1,11 @@
 {
-  "version": "7.1.9",
+  "version": "7.1.10",
   "changelog": [
-    "New (Pro): Invisibility Cloak. Turn it on in Settings → Widgets, then press Ctrl+Alt+H to blur your screen instantly.",
-    "Midnight Liquid theme now matches the website's molten-liquid look.",
-    "Fullscreen music: tap the cover to see which app is playing, 5 visualizers, and smoother synced lyrics.",
-    "Compact dashboard with no scrolling; the side notch fits completely.",
-    "Notchy colours per agent: Claude orange, Gemini blue, Codex green.",
-    "Bar and Pill: layouts adapt to size, auto-hide is more reliable and notifications no longer block clicks.",
-    "Open at sign-in works reliably.",
-    "Stability: fewer crashes, a frozen notch recovers automatically and memory use is lower."
+    "Smart Notch hides during full-screen games, videos and presentations, and no longer pops open mid-game.",
+    "Opening Smart Notch always works: a second launch shows the notch and Settings, and a frozen copy is replaced automatically.",
+    "Fixed freezes from copying in busy apps, frozen windows, and offline network or USB drives.",
+    "Safe graphics mode on PCs whose graphics driver keeps crashing.",
+    "Troubleshooting buttons open the real log and crash-dump folders.",
+    "Fixed Drop Shelf drag-out and the tray icon."
   ]
 }

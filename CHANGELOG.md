@@ -8,6 +8,8 @@
 - **Hide until hovered:** the notch and pill now finish closing and then slide out of view, the reverse of how they appear, instead of vanishing at once.
 - **Opens on more PCs:** fixed "This app can't be opened" on some Windows 10 PCs (for example Windows 10 IoT Enterprise LTSC 2021). Windows blocked the Vulkan graphics file `vulkan-1.dll` and then marked the whole app as damaged; Smart Notch draws with Direct3D and no longer includes or loads Vulkan.
 - **Fewer freezes and crashes:** the crash-reporting helper process, which Windows was reporting as frozen, is gone, and the software graphics fallback (SwiftShader) that crashed on some PCs is no longer used.
+- **Custom wallpaper:** choose whether it shows only when the notch is open or on the closed notch too (Settings → Appearance → Custom wallpaper). Wallpapers and background effects now also fill the two small curved corners where the notch meets the top of the screen, instead of leaving them black.
+- **Polish:** the new Smart Notch icon in the taskbar, tray and Settings; no faint band left at the top of the screen when "hide until hovered" hides the notch; and changing a setting from inside the open notch no longer freezes it.
 - **Full-screen detection:** the notch no longer disappears behind ChatGPT, Discord, VS Code and other maximized apps when the taskbar is set to auto-hide. It still hides for real full-screen games, videos and F11 browsers.
 
 Available through Microsoft Store once certified. Update availability can vary by device and market.

@@ -1,6 +1,6 @@
 # Release notes
 
-## 7.1.12 — submitted to Microsoft Store
+## 7.1.12 — released
 
 - **New (Pro): Edge Light.** One tap on the dashboard (next to Customize in Quick Launch) puts a bright band around your screen to light your face on video calls, like the Mac's Edge Light. The top row with window buttons and the taskbar stay clear, the band ignores clicks, and the screen goes to full brightness while it's on (back to normal after). Adjust its width and its warmth, from cool blue through white to warm yellow, with the arrow next to the button. Settings → Widgets → Edge Light hides the button.
 - **One notch only:** fixed two notches appearing at the same time, most often after waking the PC from sleep (Windows could start a second copy while the first was still waking up). A second copy now closes itself within seconds, and a copy that has frozen is replaced automatically. This also fixes "Cloak hotkey unavailable" when the second copy held Ctrl+Alt+H.

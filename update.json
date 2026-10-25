@@ -1,6 +1,14 @@
 {
-  "version": "7.1.11",
+  "version": "7.1.12",
   "changelog": [
+    "New Pro Edge Light: a bright band around your screen for video calls, with adjustable width and warmth.",
+    "Custom wallpaper can show on the open notch only, and now fills the notch corners.",
+    "Fixed \"This app can't be opened\" on some Windows 10 PCs such as LTSC 2021.",
+    "Fewer freezes and crashes.",
+    "Fixed two notches appearing at once after waking the PC from sleep.",
+    "Shake to cloak only turns the cloak on; moving the pointer can no longer uncover your screen.",
+    "The notch no longer hides behind maximized apps like ChatGPT when the taskbar auto-hides.",
+    "Hide until hovered now slides the notch away smoothly.",
     "Shake to cloak (Pro) now works right away on every mouse and touchpad.",
     "Smart Notch hides during full-screen games, videos and presentations, and no longer pops open mid-game.",
     "Opening Smart Notch always works: a second launch shows the notch and Settings, and a frozen copy is replaced automatically.",

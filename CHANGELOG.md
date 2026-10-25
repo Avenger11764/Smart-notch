@@ -1,5 +1,17 @@
 # Release notes
 
+## 7.1.12 — submitted to Microsoft Store
+
+- **New (Pro): Edge Light.** One tap on the dashboard (next to Customize in Quick Launch) puts a bright band around your screen to light your face on video calls, like the Mac's Edge Light. The top row with window buttons and the taskbar stay clear, the band ignores clicks, and the screen goes to full brightness while it's on (back to normal after). Adjust its width and its warmth, from cool blue through white to warm yellow, with the arrow next to the button. Settings → Widgets → Edge Light hides the button.
+- **One notch only:** fixed two notches appearing at the same time, most often after waking the PC from sleep (Windows could start a second copy while the first was still waking up). A second copy now closes itself within seconds, and a copy that has frozen is replaced automatically. This also fixes "Cloak hotkey unavailable" when the second copy held Ctrl+Alt+H.
+- **Invisibility Cloak:** shaking the pointer now only turns the cloak on. It clears only with a click, Esc or Ctrl+Alt+H, so moving the pointer over the notch (for example after Ctrl+Alt+Del) can no longer uncover the screen.
+- **Hide until hovered:** the notch and pill now finish closing and then slide out of view, the reverse of how they appear, instead of vanishing at once.
+- **Opens on more PCs:** fixed "This app can't be opened" on some Windows 10 PCs (for example Windows 10 IoT Enterprise LTSC 2021). Windows blocked the Vulkan graphics file `vulkan-1.dll` and then marked the whole app as damaged; Smart Notch draws with Direct3D and no longer includes or loads Vulkan.
+- **Fewer freezes and crashes:** the crash-reporting helper process, which Windows was reporting as frozen, is gone, and the software graphics fallback (SwiftShader) that crashed on some PCs is no longer used.
+- **Full-screen detection:** the notch no longer disappears behind ChatGPT, Discord, VS Code and other maximized apps when the taskbar is set to auto-hide. It still hides for real full-screen games, videos and F11 browsers.
+
+Available through Microsoft Store once certified. Update availability can vary by device and market.
+
 ## 7.1.11 — released
 
 - **Shake to cloak (Pro):** shaking the pointer over the notch now toggles the Invisibility Cloak right away and every time, on every mouse and touchpad. Previously it could react late or not at all on high-precision touchpads and gaming mice, at display scaling above 100%, or when the shake swung past the edge of the notch.

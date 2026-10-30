@@ -1,8 +1,8 @@
 # Release notes
 
-## 7.2.0 — submitted to Microsoft Store
+## 7.2.1 — submitted to Microsoft Store
 
-The first update since 7.1.12 (7.1.13 was not released; its changes are included here).
+The first update since 7.1.12 (7.1.13 and 7.2.0 were not released; their changes are included here).
 
 - **System stats in one place.** CPU, memory, network, storage, battery and uptime now share a single System stats view (the separate Network page is gone). Each tile shows the live number with a small graph or bar, and turns red when usage is very high. Choose exactly which tiles appear in Settings → Widgets → System stats; your choice also applies to the dashboard and Bar mode.
 - **Better on desktop PCs.** PCs without a battery no longer show a permanent "100%, charging" ring. The closed notch's left side is now yours to choose in Settings → General → Collapsed indicator: Auto (battery on laptops, CPU on desktops), Battery, CPU usage, Memory usage or nothing.
@@ -11,6 +11,7 @@ The first update since 7.1.12 (7.1.13 was not released; its changes are included
 - **Fixed:** the green camera dot staying on after the camera was closed (some webcams stay powered even when idle), and the camera or microphone dot getting stuck after an app crashed while using it.
 - **Shake to cloak (Pro)** now only reacts when you shake the pointer over the notch, pill or bar. Shaking it anywhere else on the screen no longer turns the Invisibility Cloak on.
 - **Fewer "not responding" reports:** Smart Notch now closes promptly when Windows updates it, signs you out or shuts down, instead of waiting to be forced closed.
+- **Rate Smart Notch.** Settings → About has a Rate button that opens the Microsoft Store's own rating window right over the app. After a while, the notch may also ask once (never during a call), with a "Don't ask again" option.
 - **Settings:** new dark dropdown menus in place of Windows' grey lists, and a look at Tidy Shelf, the developer's new app for decluttering Downloads and Desktop.
 - **Notchy follows your AI agents on its own (Pro).** Smart Notch now reads the session files Claude Code, Codex and Antigravity write as they work, so Notchy shows what each one is doing without installing anything in them: every step ("Reading App.jsx", "Running npm test"), every file edit with its added and removed lines (click it to see the changes), and a card with the agent's answer when it finishes. It works for sessions that were already open, and it can never block or slow down an agent.
 - **Answer Claude Code from the notch.** Its questions show their choices right in the card (click one, or press 1–8); permission requests have Allow, Deny and Always (Claude Code's own "don't ask again" rule). Codex permission requests work too, after you trust Smart Notch's hooks once in Codex (`/hooks`). Cards now wait up to about two minutes for you instead of 30 seconds, and **Open terminal** brings the agent's window to the front.

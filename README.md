@@ -8,7 +8,7 @@ A Dynamic Island–style notch for Windows: music with synced lyrics, system sta
 
 This is the public product and support repository. The application source is maintained privately. You don't need GitHub or developer tools to install the app.
 
-**Latest: 7.2.0** brings Notchy following your AI agents on its own (Pro), one System stats view you can customise, better support for desktop PCs, a redesigned Focus timer with drag-to-reorder tasks, smoother lyrics and a camera-indicator fix. See [CHANGELOG.md](CHANGELOG.md) for details.
+**Latest: 7.2.1** brings Notchy following your AI agents on its own (Pro), one System stats view you can customise, better support for desktop PCs, a redesigned Focus timer with drag-to-reorder tasks, smoother lyrics and a camera-indicator fix. See [CHANGELOG.md](CHANGELOG.md) for details.
 
 ## What it does
 

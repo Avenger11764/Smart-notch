@@ -1,20 +1,12 @@
 {
-  "version": "7.1.12",
+  "version": "7.2.1",
   "changelog": [
-    "New Pro Edge Light: a bright band around your screen for video calls, with adjustable width and warmth.",
-    "Custom wallpaper can show on the open notch only, and now fills the notch corners.",
-    "Fixed \"This app can't be opened\" on some Windows 10 PCs such as LTSC 2021.",
-    "Fewer freezes and crashes.",
-    "Fixed two notches appearing at once after waking the PC from sleep.",
-    "Shake to cloak only turns the cloak on; moving the pointer can no longer uncover your screen.",
-    "The notch no longer hides behind maximized apps like ChatGPT when the taskbar auto-hides.",
-    "Hide until hovered now slides the notch away smoothly.",
-    "Shake to cloak (Pro) now works right away on every mouse and touchpad.",
-    "Smart Notch hides during full-screen games, videos and presentations, and no longer pops open mid-game.",
-    "Opening Smart Notch always works: a second launch shows the notch and Settings, and a frozen copy is replaced automatically.",
-    "Fixed freezes from copying in busy apps, frozen windows, and offline network or USB drives.",
-    "Safe graphics mode on PCs whose graphics driver keeps crashing.",
-    "Troubleshooting buttons open the real log and crash-dump folders.",
-    "Fixed Drop Shelf drag-out and the tray icon."
+    "Notchy (Pro) follows Claude Code, Codex and Antigravity on its own, and you can answer Claude Code's questions and permission requests from the notch.",
+    "System stats: CPU, memory, network, storage, battery and uptime in one view; pick the tiles you want.",
+    "Desktop PCs no longer show a 100% battery; choose what the closed notch shows instead.",
+    "Focus timer redesign: bigger, drag tasks to reorder, sort, and add several tasks in a row.",
+    "Smoother lyrics, and long lines no longer lose their last letters.",
+    "Fixed the camera dot staying on after the camera was closed.",
+    "Fewer \"not responding\" reports when Windows updates Smart Notch or shuts down."
   ]
 }

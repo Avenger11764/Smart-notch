@@ -1,12 +1,11 @@
 {
-  "version": "7.2.1",
+  "version": "7.2.2",
   "changelog": [
-    "Notchy (Pro) follows Claude Code, Codex and Antigravity on its own, and you can answer Claude Code's questions and permission requests from the notch.",
-    "System stats: CPU, memory, network, storage, battery and uptime in one view; pick the tiles you want.",
-    "Desktop PCs no longer show a 100% battery; choose what the closed notch shows instead.",
-    "Focus timer redesign: bigger, drag tasks to reorder, sort, and add several tasks in a row.",
-    "Smoother lyrics, and long lines no longer lose their last letters.",
-    "Fixed the camera dot staying on after the camera was closed.",
-    "Fewer \"not responding\" reports when Windows updates Smart Notch or shuts down."
+    "Closed notch, your way: show your current to-do, an AI agent's live step (Pro), and turn off the music visualizer or charging alerts (Settings → General → Closed notch).",
+    "Weather works without the Windows Weather app, plus a new Weather tab with 24-hour and 7-day forecasts.",
+    "Left and right notch: percentages on the closed notch, and no more cut-off panels.",
+    "Pro: your custom notch size now stays when the notch is idle.",
+    "Notchy: choose which agents ask for approval in the notch; agents that approve their own steps no longer pop up a card at every step.",
+    "Fewer \"not responding\" reports around sleep and lock."
   ]
 }

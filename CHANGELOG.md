@@ -1,6 +1,18 @@
 # Release notes
 
-## 7.2.1 — submitted to Microsoft Store
+## 7.2.2 — submitted to Microsoft Store
+
+- **Weather that works everywhere, and a forecast.** Smart Notch now fetches the weather itself (Open-Meteo, with wttr.in as a backup), so it no longer depends on the Windows Weather app, and it refreshes through the day instead of once at start-up. It finds your approximate city from your internet connection, or you can pick a city and °C/°F in Settings → Widgets → Weather. A new **Weather** tab shows the next 24 hours and the next 7 days (high, low, chance of rain, sunset); click the temperature to open it. Turn the tab off with *Weather forecast* in Settings → Widgets.
+- **Left and right notch fixes.** The closed notch now shows the CPU, memory or battery percentage under its ring (it showed only the ring before). System stats and Agent usage are tall enough that nothing is cut off at the bottom, and the CPU/memory reading no longer overlaps the clock on a narrow pill.
+- **Closed notch, your way.** A new *Closed notch* section in Settings → General gathers everything the closed notch can show. The left side can now show your **current to-do**, the next unfinished Focus timer task: tick it off right there, or click it to open the task list. **AI agent activity (Pro)** can show Notchy alone or Notchy plus what the agent is doing right now ("Editing App.jsx", "Thinking…", "Waiting for you") in place of the clock. You can also switch off the **music visualizer**, the **Drop Shelf count**, the **downloads arrow** and the **charging and low battery alerts**, and set the left side to nothing to hide the battery ring.
+- **Focus timer on a side notch.** With the notch on the left or right edge, the task list was pushed out of sight. The timer is now more compact, the focus and break lengths fold into a small button next to Focus/Break, and the task list gets the rest of the space and scrolls.
+- **Pro notch size stays put.** A custom notch length or thickness is now kept while the notch sits idle; before, it shrank back to the default size after a few seconds, so the setting seemed not to be remembered.
+- **Fewer approval cards (Pro).** Settings → Notchy → *Approval requests in the notch* lets you choose All agents, Claude Code only, or None. Agents that run without asking (for example Claude Code in bypass mode) no longer open a card at every step; questions for you still show.
+- **Fewer "not responding" reports around sleep.** While the PC goes to sleep, sleeps, wakes or is locked, Smart Notch pauses its timed window checks, so Windows no longer finds it unresponsive when it freezes apps for sleep.
+
+Available through Microsoft Store once certified. Update availability can vary by device and market.
+
+## 7.2.1 — released
 
 The first update since 7.1.12 (7.1.13 and 7.2.0 were not released; their changes are included here).
 

@@ -1,11 +1,7 @@
 {
-  "version": "7.2.2",
+  "version": "7.2.3",
   "changelog": [
-    "Closed notch, your way: show your current to-do, an AI agent's live step (Pro), and turn off the music visualizer or charging alerts (Settings → General → Closed notch).",
-    "Weather works without the Windows Weather app, plus a new Weather tab with 24-hour and 7-day forecasts.",
-    "Left and right notch: percentages on the closed notch, and no more cut-off panels.",
-    "Pro: your custom notch size now stays when the notch is idle.",
-    "Notchy: choose which agents ask for approval in the notch; agents that approve their own steps no longer pop up a card at every step.",
-    "Fewer \"not responding\" reports around sleep and lock."
+    "Fixed hidden Allow and Always buttons on left and right notch permission cards. The notch now grows to fit the card and expanded command details.",
+    "Agent usage now shows your selected background effect and custom wallpaper."
   ]
 }

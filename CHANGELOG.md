@@ -1,6 +1,13 @@
 # Release notes
 
-## 7.2.2 — submitted to Microsoft Store
+## 7.2.3 — released
+
+- **Permission buttons stay visible on side notches.** Left and right notch permission cards grow to fit their contents and expanded command details, keeping Allow and Always visible without adding scrolling.
+- **Your background in Agent usage.** The Agent usage section now displays your selected background effect and custom wallpaper.
+
+Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565).
+
+## 7.2.2 — released
 
 - **Weather that works everywhere, and a forecast.** Smart Notch now fetches the weather itself (Open-Meteo, with wttr.in as a backup), so it no longer depends on the Windows Weather app, and it refreshes through the day instead of once at start-up. It finds your approximate city from your internet connection, or you can pick a city and °C/°F in Settings → Widgets → Weather. A new **Weather** tab shows the next 24 hours and the next 7 days (high, low, chance of rain, sunset); click the temperature to open it. Turn the tab off with *Weather forecast* in Settings → Widgets.
 - **Left and right notch fixes.** The closed notch now shows the CPU, memory or battery percentage under its ring (it showed only the ring before). System stats and Agent usage are tall enough that nothing is cut off at the bottom, and the CPU/memory reading no longer overlaps the clock on a narrow pill.
@@ -10,7 +17,7 @@
 - **Fewer approval cards (Pro).** Settings → Notchy → *Approval requests in the notch* lets you choose All agents, Claude Code only, or None. Agents that run without asking (for example Claude Code in bypass mode) no longer open a card at every step; questions for you still show.
 - **Fewer "not responding" reports around sleep.** While the PC goes to sleep, sleeps, wakes or is locked, Smart Notch pauses its timed window checks, so Windows no longer finds it unresponsive when it freezes apps for sleep.
 
-Available through Microsoft Store once certified. Update availability can vary by device and market.
+Available through Microsoft Store.
 
 ## 7.2.1 — released
 

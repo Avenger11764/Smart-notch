@@ -2,12 +2,7 @@
 
 ## 7.2.4 — submitted to Microsoft Store
 
-- **Phone link (Pro).** Move files between your PC and your phone over your Wi-Fi, with no app, cable or account. Open the Drop Shelf, click **Send to phone**, and scan the code with your phone's camera; the page that opens asks you to allow the phone on the PC once. Then:
-  - Click **Send** on any file in the Drop Shelf, or drag files onto the notch and drop them on the phone side, and tap **Save** on the phone.
-  - Send photos, videos or any file from the phone: they land in the Drop Shelf and in Downloads\Smart Notch.
-  - Files go straight from device to device on your network and never through the internet. Phones disconnect on their own after 10 minutes without transfers, and you can disconnect them any time from the Drop Shelf.
-  - Notchy is on the phone too, and reacts as files come and go.
-  - The first time, Windows Firewall may ask about Smart Notch: allow it on private networks. Some guest Wi-Fi networks block devices from reaching each other.
+- **Crash reports you can send.** If Smart Notch closes unexpectedly, the notch offers once to send a report (Smart Notch's log and which part failed, with personal paths removed). Nothing is sent unless you press **Send**, and it asks at most once every few days.
 - **Update from the app.** Settings → About → **Update** now installs the new version through Microsoft Store's own update window, right over Smart Notch. If the Store hasn't offered the update to your PC yet (it can take up to a day to reach everyone), Smart Notch opens your Store Library, where **Get updates** fetches it.
 - **Clipboard (free version):** delete any item, or clear them all.
 - **Bluetooth:** a headset that is connected but isn't your current sound output showed as "Not connected", and pressing Connect reported an error. It now shows as connected, with its battery level.

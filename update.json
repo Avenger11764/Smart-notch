@@ -1,7 +1,9 @@
 {
-  "version": "7.2.3",
+  "version": "7.2.4",
   "changelog": [
-    "Fixed hidden Allow and Always buttons on left and right notch permission cards. The notch now grows to fit the card and expanded command details.",
-    "Agent usage now shows your selected background effect and custom wallpaper."
+    "If Smart Notch ever closes unexpectedly, it now offers to send a crash report with one tap.",
+    "Update now installs right from Smart Notch through Microsoft Store.",
+    "Free version: delete items or clear all in Clipboard history.",
+    "Fixed connected Bluetooth headsets showing as not connected, and Open at sign-in getting switched off."
   ]
 }

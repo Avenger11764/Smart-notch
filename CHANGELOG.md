@@ -1,6 +1,6 @@
 # Release notes
 
-## 7.2.4 — submitted to Microsoft Store
+## 7.2.4 — released
 
 - **Crash reports you can send.** If Smart Notch closes unexpectedly, the notch offers once to send a report (Smart Notch's log and which part failed, with personal paths removed). Nothing is sent unless you press **Send**, and it asks at most once every few days.
 - **Update from the app.** Settings → About → **Update** now installs the new version through Microsoft Store's own update window, right over Smart Notch. If the Store hasn't offered the update to your PC yet (it can take up to a day to reach everyone), Smart Notch opens your Store Library, where **Get updates** fetches it.
@@ -9,7 +9,7 @@
 - **Open at sign-in:** if Smart Notch's startup was switched off while the setting is on, Smart Notch turns it back on. When Windows' own Startup apps list has Smart Notch turned off, Settings says so and opens that list for you.
 - **Left and right notch:** expanded panels grow to fit what they show (Drop Shelf, Weather, Focus timer tasks and more) instead of scrolling. Clicking the to-do, Notchy or the Drop Shelf count on the closed notch now opens that view instead of Home.
 
-Available through Microsoft Store once certified. Update availability can vary by device and market.
+Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565). Update availability can vary by device and market.
 
 ## 7.2.3 — released
 
@@ -48,7 +48,7 @@ The first update since 7.1.12 (7.1.13 and 7.2.0 were not released; their changes
 - **Fixed for Notchy:** agent notifications not arriving when the Store app and another copy of Smart Notch were both installed (each rewrote the agents' settings for itself); Antigravity tools being blocked by a Smart Notch hook ("…SmartNotch.Native.exe is not recognized"), Antigravity no longer uses hooks at all; and Codex's notify setting calling Smart Notch in a loop. Notchy now shows how each agent is connected, and tells you when an agent's hooks are installed but not running.
 - **Notchy** hops when a task finishes, shows a "?" when it has a question for you, and dozes after two quiet minutes.
 
-Available through Microsoft Store once certified. Update availability can vary by device and market.
+Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565). Update availability can vary by device and market.
 
 ## 7.1.12 — released
 
@@ -62,7 +62,7 @@ Available through Microsoft Store once certified. Update availability can vary b
 - **Polish:** the new Smart Notch icon in the taskbar, tray and Settings; no faint band left at the top of the screen when "hide until hovered" hides the notch; and changing a setting from inside the open notch no longer freezes it.
 - **Full-screen detection:** the notch no longer disappears behind ChatGPT, Discord, VS Code and other maximized apps when the taskbar is set to auto-hide. It still hides for real full-screen games, videos and F11 browsers.
 
-Available through Microsoft Store once certified. Update availability can vary by device and market.
+Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565). Update availability can vary by device and market.
 
 ## 7.1.11 — released
 

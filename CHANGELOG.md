@@ -1,5 +1,14 @@
 # Release notes
 
+## 7.2.7 — submitted to Microsoft Store
+
+- **See your update happen.** Pressing **Update** now opens a window that shows the download and install progress, instead of just "Updating…".
+- **Smart Notch reopens after updating.** When the update finishes, Smart Notch restarts by itself instead of staying closed. (This works from the next update onwards.)
+- **No crash prompt after an update.** Being closed to install an update no longer counts as an unexpected exit.
+- **Cleaner notification pop-ups.** Notifications from other apps now show in a tidier card with a coloured app badge, the text centred and a quieter close button.
+
+Available through Microsoft Store once certified. Update availability can vary by device and market.
+
 ## 7.2.6 — released
 
 - **Notch shows up after you open the lid.** If Smart Notch started while no screen was available (for example with a laptop lid closed), it could give up after a few minutes and keep running with no notch. It now waits and shows the notch as soon as a screen is available.

@@ -4,11 +4,13 @@
 
 A Dynamic Island–style notch for Windows: music with synced lyrics, system stats, Bluetooth, focus timer and quick controls at the top of your screen, plus Notchy, a companion that follows your AI coding agents.
 
-[Get Smart Notch from Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565) · [Website](https://smart-notch-windows.vercel.app/) · [Report a problem](https://github.com/Avenger11764/Smart-notch/issues/new/choose) · [Release notes](CHANGELOG.md)
+[Get Smart Notch from Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565) · [Website](https://smart-notch-windows.vercel.app/) · [Join the Discord](https://discord.gg/hsAYVpVeas) · [Report a problem](https://github.com/Avenger11764/Smart-notch/issues/new/choose) · [Release notes](CHANGELOG.md)
 
 This is the public product and support repository. The application source is maintained privately. You don't need GitHub or developer tools to install the app.
 
-**Latest: 7.2.3 — live in Microsoft Store.** Side-notch permission cards now grow to keep Allow and Always visible, including when command details are expanded. Agent usage now shows your chosen background effect and custom wallpaper. See [CHANGELOG.md](CHANGELOG.md) for details.
+**Latest: 7.2.6 — live in Microsoft Store.** The notch shows up once a screen is available (even after starting with the lid closed), graphics stay fast after a Windows shutdown, and no more false crash prompts after a restart. See [CHANGELOG.md](CHANGELOG.md) for details.
+
+**Community:** join the [Smart Notch Discord](https://discord.gg/hsAYVpVeas) to get updates first, see what's coming next, report bugs and suggest features.
 
 ## What it does
 

@@ -1,5 +1,12 @@
 # Release notes
 
+## 7.2.5 — submitted to Microsoft Store
+
+- **No more crash when Windows closes Smart Notch.** When Windows closed Smart Notch to install an update, restart or shut down, it could crash on the way out and Windows reported an error. It now exits cleanly.
+- **Sound output list stays current.** Plugging in or removing headphones, speakers or a Bluetooth headset now updates the sound output switcher right away, instead of only after reopening the notch.
+
+Available through Microsoft Store once certified. Update availability can vary by device and market.
+
 ## 7.2.4 — released
 
 - **Crash reports you can send.** If Smart Notch closes unexpectedly, the notch offers once to send a report (Smart Notch's log and which part failed, with personal paths removed). Nothing is sent unless you press **Send**, and it asks at most once every few days.

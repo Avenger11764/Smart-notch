@@ -4,6 +4,8 @@
 
 - **No more crash when Windows closes Smart Notch.** When Windows closed Smart Notch to install an update, restart or shut down, it could crash on the way out and Windows reported an error. It now exits cleanly.
 - **Sound output list stays current.** Plugging in or removing headphones, speakers or a Bluetooth headset now updates the sound output switcher right away, instead of only after reopening the notch.
+- **Smoother wake from sleep.** Smart Notch restarts its media and system helpers once after the PC wakes, instead of twice, and its single-copy check no longer pauses the app.
+- **Updated app engine** (Electron 41.10.7) with the latest stability and security fixes.
 
 Available through Microsoft Store once certified. Update availability can vary by device and market.
 

@@ -1,5 +1,13 @@
 # Release notes
 
+## 7.2.6 — submitted to Microsoft Store
+
+- **Notch shows up after you open the lid.** If Smart Notch started while no screen was available (for example with a laptop lid closed), it could give up after a few minutes and keep running with no notch. It now waits and shows the notch as soon as a screen is available.
+- **Graphics stay fast.** When Windows shut down, Smart Notch could mistake it for graphics-driver crashes and switch itself to slower software rendering. That no longer happens.
+- **Fewer false crash prompts.** If your PC restarted, ran out of battery or was turned off while asleep, Smart Notch no longer says it "closed unexpectedly" and asks you to send a report.
+
+Available through Microsoft Store once certified. Update availability can vary by device and market.
+
 ## 7.2.5 — submitted to Microsoft Store
 
 - **No more crash when Windows closes Smart Notch.** When Windows closed Smart Notch to install an update, restart or shut down, it could crash on the way out and Windows reported an error. It now exits cleanly.

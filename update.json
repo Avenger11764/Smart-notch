@@ -1,9 +1,9 @@
 {
-  "version": "7.2.4",
+  "version": "7.2.6",
   "changelog": [
-    "If Smart Notch ever closes unexpectedly, it now offers to send a crash report with one tap.",
-    "Update now installs right from Smart Notch through Microsoft Store.",
-    "Free version: delete items or clear all in Clipboard history.",
-    "Fixed connected Bluetooth headsets showing as not connected, and Open at sign-in getting switched off."
+    "The notch now appears once a screen is available, even if Smart Notch started with the laptop lid closed.",
+    "A Windows shutdown no longer switches Smart Notch to slower software rendering.",
+    "No more \"closed unexpectedly\" prompts after your PC restarts or loses power.",
+    "Fixed a crash when Windows closes Smart Notch to install an update, restart or shut down."
   ]
 }

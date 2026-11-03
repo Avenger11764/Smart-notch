@@ -1,21 +1,21 @@
 # Release notes
 
-## 7.2.6 — submitted to Microsoft Store
+## 7.2.6 — released
 
 - **Notch shows up after you open the lid.** If Smart Notch started while no screen was available (for example with a laptop lid closed), it could give up after a few minutes and keep running with no notch. It now waits and shows the notch as soon as a screen is available.
 - **Graphics stay fast.** When Windows shut down, Smart Notch could mistake it for graphics-driver crashes and switch itself to slower software rendering. That no longer happens.
 - **Fewer false crash prompts.** If your PC restarted, ran out of battery or was turned off while asleep, Smart Notch no longer says it "closed unexpectedly" and asks you to send a report.
 
-Available through Microsoft Store once certified. Update availability can vary by device and market.
+Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565). Update availability can vary by device and market.
 
-## 7.2.5 — submitted to Microsoft Store
+## 7.2.5 — released
 
 - **No more crash when Windows closes Smart Notch.** When Windows closed Smart Notch to install an update, restart or shut down, it could crash on the way out and Windows reported an error. It now exits cleanly.
 - **Sound output list stays current.** Plugging in or removing headphones, speakers or a Bluetooth headset now updates the sound output switcher right away, instead of only after reopening the notch.
 - **Smoother wake from sleep.** Smart Notch restarts its media and system helpers once after the PC wakes, instead of twice, and its single-copy check no longer pauses the app.
 - **Updated app engine** (Electron 41.10.7) with the latest stability and security fixes.
 
-Available through Microsoft Store once certified. Update availability can vary by device and market.
+Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565). Update availability can vary by device and market.
 
 ## 7.2.4 — released
 

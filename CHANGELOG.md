@@ -1,6 +1,6 @@
 # Release notes
 
-## 7.2.7 — submitted to Microsoft Store
+## 7.2.7 — released
 
 - **See your update happen.** Pressing **Update** now opens a window that shows the download and install progress, instead of just "Updating…".
 - **Smart Notch reopens after updating.** When the update finishes, Smart Notch restarts by itself instead of staying closed. (This works from the next update onwards.)
@@ -8,7 +8,7 @@
 - **Join the community.** Settings → About has a new **Join Discord** button: get updates first, see what's coming next, report bugs and suggest features.
 - **Cleaner notification pop-ups.** Notifications from other apps now show in a tidier card with a coloured app badge, the text centred and a quieter close button.
 
-Available through Microsoft Store once certified. Update availability can vary by device and market.
+Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565). Update availability can vary by device and market.
 
 ## 7.2.6 — released
 

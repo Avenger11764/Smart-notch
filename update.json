@@ -1,9 +1,10 @@
 {
-  "version": "7.2.6",
+  "version": "7.2.7",
   "changelog": [
-    "The notch now appears once a screen is available, even if Smart Notch started with the laptop lid closed.",
-    "A Windows shutdown no longer switches Smart Notch to slower software rendering.",
-    "No more \"closed unexpectedly\" prompts after your PC restarts or loses power.",
-    "Fixed a crash when Windows closes Smart Notch to install an update, restart or shut down."
+    "Pressing Update now opens a window showing the download and install progress.",
+    "Smart Notch restarts by itself after an update finishes (from the next update onwards).",
+    "Being closed to install an update no longer triggers a \"closed unexpectedly\" prompt.",
+    "New Join Discord button in Settings → About: get updates first, report bugs and suggest features.",
+    "Notifications from other apps now show in a tidier card with a coloured app badge."
   ]
 }

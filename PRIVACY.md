@@ -1,6 +1,6 @@
 # Smart Notch Privacy Policy
 
-**Last updated: 16 October 2026**
+**Last updated: 9 November 2026**
 
 **Current release reviewed: Smart Notch 7.1.5 for Windows.**
 
@@ -16,6 +16,16 @@ Smart Notch processes information to provide desktop controls, notifications and
 - **Preferences and productivity data:** appearance settings, shortcuts, window positions, timers, tasks and related local state.
 - **Agent and local Git integrations:** provider and account identifiers (such as email and plan), usage counters and quota resets, session/project identifiers, paths, event descriptions, and commands or permission requests supplied by an agent integration. Local Git monitoring reads information from watched repositories, including repository paths and commit or working-tree activity. Installing notification hooks changes the selected agent or repository hook configuration so it can send events to Smart Notch over a local connection. These events may include sensitive project information. Supported integrations may read local agent configuration or credentials, query a local agent service, or use the agent's signed-in account to request its usage/profile information.
 - **Diagnostics:** local diagnostic logs may contain errors, paths, device details and operational events.
+
+## Phone link (Pro, from 7.2.9)
+
+Phone link moves files between the Drop Shelf and a phone on the same network. It works only while you have it turned on, and it uses no account or developer server:
+
+- **Local connection only.** While Phone link is on, Smart Notch runs a small web server on your PC that accepts connections from your local network. The QR code in the Drop Shelf contains your PC's local network address and a pairing code. Transfers go directly between your phone and PC; they are not sent through the internet or any Smart Notch service.
+- **You approve each phone.** A phone that scans the code must be allowed on the PC before it can send or receive files. Its name (taken from the phone's browser, such as "iPhone" or the Android model) is shown to you, and your PC's name is shown on the phone.
+- **Not encrypted.** The connection between your phone and PC uses plain HTTP, so other devices on the same network could observe the transfers. Use Phone link only on networks you trust, such as your home Wi-Fi, and not on public Wi-Fi.
+- **What is stored.** Files received from a phone are saved in the **Smart Notch** folder inside your Downloads folder and appear in the Drop Shelf. On the PC, Smart Notch remembers the pairing code, the allowed phones (name, a hashed key, and when each was added and last seen) and the chosen network address, in its local app data. Files you send to a phone are offered only while Phone link is running.
+- **Your controls.** Phones are disconnected automatically after 10 minutes without a transfer. You can remove a phone or turn Phone link off at any time in the Drop Shelf. Windows may ask whether to let Smart Notch through the firewall the first time Phone link starts.
 
 ## Local storage and retention
 

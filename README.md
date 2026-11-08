@@ -10,6 +10,8 @@ This is the public product and support repository. The application source is mai
 
 **Latest: 7.2.8 — live in Microsoft Store.** The volume pop-up names the right device, the notch comes back by itself after a screen change or sleep, it recovers instead of closing, old startup entries are tidied up, crash reports explain more and there is a new Join our Discord link in Settings. See [CHANGELOG.md](CHANGELOG.md) for details.
 
+**Coming soon: 7.2.9.** New for Pro: **Phone link** — send files between your phone and PC over Wi-Fi by scanning a QR code, with no app or account needed. Files from your phone no longer interrupt the notch while you use it, and signing out or shutting down Windows no longer leads to a crash report prompt.
+
 **Community:** join the [Smart Notch Discord](https://discord.gg/hsAYVpVeas) to get updates first, see what's coming next, report bugs and suggest features.
 
 ## What it does
@@ -28,6 +30,7 @@ Everything above is free. Smart Notch Pro is a one-time upgrade through Microsof
 - **Notchy:** follows Claude Code, Codex and Antigravity as they work, shows each step and file change, lets you answer questions and permission requests from the notch, and includes account usage and a detachable desktop screen.
 - **Edge Light:** a bright band around your screen to light your face on video calls.
 - **Drop Shelf, Clipboard history** (pins, images, smart actions), **Download progress** and the **Volume Mixer**.
+- **Phone link** (from 7.2.9): scan a QR code to send files between the Drop Shelf and your phone over Wi-Fi. No app or account needed.
 - **Quick Apps**, the **Invisibility Cloak** privacy blur, fullscreen music extras and custom notch size and placement.
 
 Agent features depend on the agent tools being installed and signed in; usage figures come from each provider.

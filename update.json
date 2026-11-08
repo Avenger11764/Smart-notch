@@ -1,13 +1,8 @@
 {
-  "version": "7.2.8",
+  "version": "7.2.9",
   "changelog": [
-    "Smart Notch comes back on its own when a monitor reconnects, after sleep, or when Windows starts without a display ready.",
-    "If the notch stops responding, it now recovers by itself instead of closing.",
-    "The volume pop-up no longer says sound is playing on your phone or another Bluetooth device when it is coming from your speakers.",
-    "Old startup entries left by earlier versions are cleaned up. If an older copy of Smart Notch still starts with Windows, you get a one-time tip to turn it off.",
-    "Background helpers restart more gently and stay stopped when you quit.",
-    "Crash reports explain more about what happened, so problems get fixed faster. Nothing is sent unless you press Send.",
-    "More reliable startup and shutdown.",
-    "Join the Smart Notch community on Discord, right from the Settings sidebar."
+    "New for Pro: Phone link. Scan a QR code to send files between the Drop Shelf and your phone over Wi-Fi. No app or account needed.",
+    "Files sent from your phone go straight to the Drop Shelf without interrupting the notch while you use it.",
+    "Signing out or shutting down Windows no longer leads to a crash report prompt the next time Smart Notch starts."
   ]
 }

@@ -1,12 +1,12 @@
 # Release notes
 
-## 7.2.9 — coming soon to Microsoft Store
+## 7.2.9 — released
 
 - **New for Pro: Phone link.** Send files between your phone and PC over Wi-Fi. Open the Drop Shelf, scan the QR code with your phone and share files both ways. No app or account needed.
 - **No interruptions while you use the notch.** Files sent from your phone go straight to the Drop Shelf without replacing what you are looking at.
 - **No crash prompt after signing out.** Signing out or shutting down Windows no longer leads to a crash report prompt the next time Smart Notch starts.
 
-Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565) once certified. Update availability can vary by device and market.
+Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565). Update availability can vary by device and market.
 
 ## 7.2.8 — released
 

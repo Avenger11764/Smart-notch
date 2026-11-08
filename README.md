@@ -8,9 +8,7 @@ A Dynamic Island–style notch for Windows: music with synced lyrics, system sta
 
 This is the public product and support repository. The application source is maintained privately. You don't need GitHub or developer tools to install the app.
 
-**Latest: 7.2.8 — live in Microsoft Store.** The volume pop-up names the right device, the notch comes back by itself after a screen change or sleep, it recovers instead of closing, old startup entries are tidied up, crash reports explain more and there is a new Join our Discord link in Settings. See [CHANGELOG.md](CHANGELOG.md) for details.
-
-**Coming soon: 7.2.9.** New for Pro: **Phone link** — send files between your phone and PC over Wi-Fi by scanning a QR code, with no app or account needed. Files from your phone no longer interrupt the notch while you use it, and signing out or shutting down Windows no longer leads to a crash report prompt.
+**Latest: 7.2.9 — live in Microsoft Store.** New for Pro: **Phone link** — send files between your phone and PC over Wi-Fi by scanning a QR code, with no app or account needed. Files from your phone no longer interrupt the notch while you use it, and signing out or shutting down Windows no longer leads to a crash report prompt. See [CHANGELOG.md](CHANGELOG.md) for details.
 
 **Community:** join the [Smart Notch Discord](https://discord.gg/hsAYVpVeas) to get updates first, see what's coming next, report bugs and suggest features.
 

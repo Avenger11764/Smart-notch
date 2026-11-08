@@ -1,5 +1,13 @@
 # Release notes
 
+## 7.2.9 — coming soon to Microsoft Store
+
+- **New for Pro: Phone link.** Send files between your phone and PC over Wi-Fi. Open the Drop Shelf, scan the QR code with your phone and share files both ways. No app or account needed.
+- **No interruptions while you use the notch.** Files sent from your phone go straight to the Drop Shelf without replacing what you are looking at.
+- **No crash prompt after signing out.** Signing out or shutting down Windows no longer leads to a crash report prompt the next time Smart Notch starts.
+
+Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565) once certified. Update availability can vary by device and market.
+
 ## 7.2.8 — released
 
 - **Volume pop-up shows the right device.** On some laptops, changing the volume said the sound was playing on a connected phone or another Bluetooth device when it was coming from the speakers. It now shows a device name only when the sound really plays through it.

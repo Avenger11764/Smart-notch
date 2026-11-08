@@ -1,6 +1,6 @@
 # Release notes
 
-## 7.2.8 — submitted to Microsoft Store
+## 7.2.8 — released
 
 - **Volume pop-up shows the right device.** On some laptops, changing the volume said the sound was playing on a connected phone or another Bluetooth device when it was coming from the speakers. It now shows a device name only when the sound really plays through it.
 - **The notch comes back by itself.** If a monitor is unplugged, the PC wakes from sleep or Windows starts without a screen ready, Smart Notch waits and shows the notch again as soon as a screen is available.
@@ -10,7 +10,7 @@
 - **Better crash reports.** Reports explain more about what happened, so problems get fixed faster. Nothing is sent unless you press Send.
 - **Join the community.** A **Join our Discord** link now sits in the Settings sidebar.
 
-Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565) once certified. Update availability can vary by device and market.
+Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565). Update availability can vary by device and market.
 
 ## 7.2.7 — released
 

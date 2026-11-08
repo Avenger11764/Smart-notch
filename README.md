@@ -8,7 +8,7 @@ A Dynamic Island–style notch for Windows: music with synced lyrics, system sta
 
 This is the public product and support repository. The application source is maintained privately. You don't need GitHub or developer tools to install the app.
 
-**Latest: 7.2.7 — live in Microsoft Store.** Pressing Update now shows download and install progress, Smart Notch reopens by itself after future updates, no crash prompt after updating, a new Join Discord button and cleaner notification pop-ups. See [CHANGELOG.md](CHANGELOG.md) for details.
+**Latest: 7.2.8 — live in Microsoft Store.** The volume pop-up names the right device, the notch comes back by itself after a screen change or sleep, it recovers instead of closing, old startup entries are tidied up, crash reports explain more and there is a new Join our Discord link in Settings. See [CHANGELOG.md](CHANGELOG.md) for details.
 
 **Community:** join the [Smart Notch Discord](https://discord.gg/hsAYVpVeas) to get updates first, see what's coming next, report bugs and suggest features.
 

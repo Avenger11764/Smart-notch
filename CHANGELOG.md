@@ -1,6 +1,6 @@
 # Release notes
 
-## 7.3.0 — coming soon to Microsoft Store
+## 7.3.0 — released
 
 - **New: hide the notch with a double-click.** Double-click an empty spot in the open notch or pill and it shrinks to a slim line at the edge of the screen, out of your way. Double-click the line to bring it back. Notifications still show while it is a line.
 - **Show desktop no longer hides the notch.** Pressing Show desktop (Win+D or the corner of the taskbar) used to minimize the notch until Smart Notch was opened again.
@@ -9,7 +9,7 @@
 - **Cleaner Settings window.** The faint square around the Settings window is gone.
 - **Fewer false crash prompts.** Signing out, shutting down, or Microsoft Store updating Smart Notch in the background no longer leads to a "closed unexpectedly" prompt.
 
-Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565) once certified. Update availability can vary by device and market.
+Available now through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565). Update availability can vary by device and market.
 
 ## 7.2.9 — released
 

@@ -1,8 +1,11 @@
 {
-  "version": "7.2.9",
+  "version": "7.3.0",
   "changelog": [
-    "New for Pro: Phone link. Scan a QR code to send files between the Drop Shelf and your phone over Wi-Fi. No app or account needed.",
-    "Files sent from your phone go straight to the Drop Shelf without interrupting the notch while you use it.",
-    "Signing out or shutting down Windows no longer leads to a crash report prompt the next time Smart Notch starts."
+    "New: double-click an empty spot in the open notch or pill to shrink it to a slim line at the edge of the screen. Double-click the line to bring it back.",
+    "Show desktop (Win+D) no longer hides the notch.",
+    "With the notch on the left or right, the main page scrolls again.",
+    "Old unfinished downloads no longer keep the download icon blinking.",
+    "The faint square around the Settings window is gone.",
+    "Signing out, shutting down, or a Store update no longer leads to a false crash prompt."
   ]
 }

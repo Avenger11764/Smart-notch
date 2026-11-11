@@ -10,6 +10,8 @@ This is the public product and support repository. The application source is mai
 
 **Latest: 7.2.9 — live in Microsoft Store.** New for Pro: **Phone link** — send files between your phone and PC over Wi-Fi by scanning a QR code, with no app or account needed. Files from your phone no longer interrupt the notch while you use it, and signing out or shutting down Windows no longer leads to a crash report prompt. See [CHANGELOG.md](CHANGELOG.md) for details.
 
+**Coming soon: 7.3.0.** Double-click the open notch or pill to shrink it to a slim line at the screen edge, and double-click the line to bring it back. Also: Show desktop no longer hides the notch, the left and right positions scroll again, old downloads no longer keep the download icon blinking, and fewer false crash prompts.
+
 **Community:** join the [Smart Notch Discord](https://discord.gg/hsAYVpVeas) to get updates first, see what's coming next, report bugs and suggest features.
 
 ## What it does

@@ -1,5 +1,16 @@
 # Release notes
 
+## 7.3.0 — coming soon to Microsoft Store
+
+- **New: hide the notch with a double-click.** Double-click an empty spot in the open notch or pill and it shrinks to a slim line at the edge of the screen, out of your way. Double-click the line to bring it back. Notifications still show while it is a line.
+- **Show desktop no longer hides the notch.** Pressing Show desktop (Win+D or the corner of the taskbar) used to minimize the notch until Smart Notch was opened again.
+- **Left and right positions scroll again.** With the notch on the left or right, the main page is scrollable, so nothing at the bottom is cut off.
+- **No more blinking download icon for old downloads.** Unfinished browser downloads left in your Downloads folder no longer count as downloading. Paused downloads show again once they resume.
+- **Cleaner Settings window.** The faint square around the Settings window is gone.
+- **Fewer false crash prompts.** Signing out, shutting down, or Microsoft Store updating Smart Notch in the background no longer leads to a "closed unexpectedly" prompt.
+
+Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565) once certified. Update availability can vary by device and market.
+
 ## 7.2.9 — released
 
 - **New for Pro: Phone link.** Send files between your phone and PC over Wi-Fi. Open the Drop Shelf, scan the QR code with your phone and share files both ways. No app or account needed.

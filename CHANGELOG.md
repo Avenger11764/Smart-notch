@@ -1,13 +1,13 @@
 # Release notes
 
-## 7.3.1 — coming soon to Microsoft Store
+## 7.3.1 — released
 
 - **Phone link connects more reliably (Pro).** Smart Notch now opens Phone link's ports in Windows Firewall itself, so phones on the same Wi-Fi can connect without a prompt, including on networks Windows marks as Public.
 - **Firewall shortcut.** If a phone still can't connect (for example after Cancel was clicked on an earlier firewall prompt), the Drop Shelf links straight to the Windows Firewall settings.
 - **Play/pause controls the right app.** Play/pause, next, previous and seeking now control the app shown in the notch, such as Spotify, even when a browser tab also has media.
 - **No more stuck notch.** The notch no longer stays frozen at an odd size after the PC wakes from sleep, a full-screen app closes, or Show desktop is used.
 
-Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565) once certified. Update availability can vary by device and market.
+Available now through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565). Update availability can vary by device and market.
 
 ## 7.3.0 — released
 

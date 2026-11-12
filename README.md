@@ -8,9 +8,7 @@ A Dynamic Island–style notch for Windows: music with synced lyrics, system sta
 
 This is the public product and support repository. The application source is maintained privately. You don't need GitHub or developer tools to install the app.
 
-**Latest: 7.3.0 — live in Microsoft Store.** Double-click the open notch or pill to shrink it to a slim line at the screen edge, and double-click the line to bring it back. Also: Show desktop no longer hides the notch, the left and right positions scroll again, old downloads no longer keep the download icon blinking, and fewer false crash prompts. See [CHANGELOG.md](CHANGELOG.md) for details.
-
-**Coming soon: 7.3.1.** Phone link (Pro) connects without a firewall prompt, including on Wi-Fi marked Public, and play/pause now controls the app shown in the notch (like Spotify) even when a browser tab also has media. The notch also no longer gets stuck at an odd size after waking from sleep.
+**Latest: 7.3.1 — live in Microsoft Store.** Phone link (Pro) connects without a firewall prompt, including on Wi-Fi marked Public, and play/pause now controls the app shown in the notch (like Spotify) even when a browser tab also has media. The notch also no longer gets stuck at an odd size after waking from sleep. See [CHANGELOG.md](CHANGELOG.md) for details.
 
 **Community:** join the [Smart Notch Discord](https://discord.gg/hsAYVpVeas) to get updates first, see what's coming next, report bugs and suggest features.
 

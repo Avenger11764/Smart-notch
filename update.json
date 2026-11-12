@@ -1,11 +1,9 @@
 {
-  "version": "7.3.0",
+  "version": "7.3.1",
   "changelog": [
-    "New: double-click an empty spot in the open notch or pill to shrink it to a slim line at the edge of the screen. Double-click the line to bring it back.",
-    "Show desktop (Win+D) no longer hides the notch.",
-    "With the notch on the left or right, the main page scrolls again.",
-    "Old unfinished downloads no longer keep the download icon blinking.",
-    "The faint square around the Settings window is gone.",
-    "Signing out, shutting down, or a Store update no longer leads to a false crash prompt."
+    "Phone link (Pro): phones on the same Wi-Fi now connect without a firewall prompt, including on networks Windows marks as Public.",
+    "If a phone still can't connect, the Drop Shelf now links straight to the Windows Firewall settings.",
+    "Play/pause, next, previous and seeking now control the app shown in the notch, such as Spotify, even when a browser tab also has media.",
+    "The notch no longer stays stuck at an odd size after the PC wakes from sleep, a full-screen app closes, or Show desktop."
   ]
 }

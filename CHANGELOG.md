@@ -1,5 +1,19 @@
 # Release notes
 
+## 7.3.2 — coming soon to Microsoft Store
+
+![Teleprompter in Smart Notch](whats-new/7.3.2-teleprompter.webp)
+
+- **New: Teleprompter.** Read your script right under the camera, at the pace you set. Free for scripts up to 300 words; Pro removes the limit and hides the notch from screen shares and recordings. Turn it on or off in Settings › Widgets.
+- **Pinned notch lets clicks through.** With the notch pinned open, the screen around it takes clicks again.
+- **Clock matches Windows.** The notch clock now always shows the same time as the Windows clock.
+- **Restart Smart Notch.** A new option in the tray icon's menu and in Settings, for when the notch stops responding.
+- **No more hanging on close.** Closing Smart Notch can no longer leave it hanging.
+- **Music on a side notch.** The empty-lyrics message no longer covers the playback controls.
+- **What's new page.** Settings now has its own What's new page, with a picture of each release's headline feature.
+
+Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565) once certified. Update availability can vary by device and market.
+
 ## 7.3.1 — released
 
 - **Phone link connects more reliably (Pro).** Smart Notch now opens Phone link's ports in Windows Firewall itself, so phones on the same Wi-Fi can connect without a prompt, including on networks Windows marks as Public.

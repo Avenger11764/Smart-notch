@@ -1,6 +1,6 @@
 # Release notes
 
-## 7.3.2 — coming soon to Microsoft Store
+## 7.3.2 — released
 
 ![Teleprompter in Smart Notch](whats-new/7.3.2-teleprompter.webp)
 
@@ -12,7 +12,7 @@
 - **Music on a side notch.** The empty-lyrics message no longer covers the playback controls.
 - **What's new page.** Settings now has its own What's new page, with a picture of each release's headline feature.
 
-Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565) once certified. Update availability can vary by device and market.
+Available now through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565). Update availability can vary by device and market.
 
 ## 7.3.1 — released
 

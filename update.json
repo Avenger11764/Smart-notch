@@ -1,9 +1,16 @@
 {
-  "version": "7.3.1",
+  "version": "7.3.2",
   "changelog": [
-    "Phone link (Pro): phones on the same Wi-Fi now connect without a firewall prompt, including on networks Windows marks as Public.",
-    "If a phone still can't connect, the Drop Shelf now links straight to the Windows Firewall settings.",
-    "Play/pause, next, previous and seeking now control the app shown in the notch, such as Spotify, even when a browser tab also has media.",
-    "The notch no longer stays stuck at an odd size after the PC wakes from sleep, a full-screen app closes, or Show desktop."
-  ]
+    "New: Teleprompter. Read your script right under the camera at the pace you set. Free for scripts up to 300 words; Pro removes the limit and hides the notch from screen shares and recordings.",
+    "With the notch pinned open, the screen around it now takes clicks again.",
+    "The notch clock now always matches the Windows clock.",
+    "New: Restart Smart Notch, in the tray icon's menu and in Settings, for when the notch stops responding.",
+    "Closing Smart Notch can no longer leave it hanging.",
+    "On a side notch, the music view's empty-lyrics message no longer covers the playback controls."
+  ],
+  "highlight": {
+    "title": "Meet the Teleprompter",
+    "text": "Read your script right under the camera, at the pace you set. Free for scripts up to 300 words; Pro removes the limit and hides the notch from screen shares.",
+    "image": "https://raw.githubusercontent.com/Avenger11764/Smart-notch/main/whats-new/7.3.2-teleprompter.webp"
+  }
 }

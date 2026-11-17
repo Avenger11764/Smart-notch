@@ -8,9 +8,7 @@ A Dynamic Island–style notch for Windows: music with synced lyrics, system sta
 
 This is the public product and support repository. The application source is maintained privately. You don't need GitHub or developer tools to install the app.
 
-**Latest: 7.3.1 — live in Microsoft Store.** Phone link (Pro) connects without a firewall prompt, including on Wi-Fi marked Public, and play/pause now controls the app shown in the notch (like Spotify) even when a browser tab also has media. The notch also no longer gets stuck at an odd size after waking from sleep. See [CHANGELOG.md](CHANGELOG.md) for details.
-
-**Coming soon: 7.3.2.** A new Teleprompter: read your script right under the camera, free for scripts up to 300 words, with Pro removing the limit and hiding the notch from screen shares. Also: a pinned notch lets clicks through again, the clock always matches Windows, and a new Restart option.
+**Latest: 7.3.2 — live in Microsoft Store.** A new Teleprompter: read your script right under the camera, at the pace you set. Free for scripts up to 300 words; Pro removes the limit and hides the notch from screen shares. Also: a pinned notch lets clicks through again, the clock always matches Windows, and a new Restart option. See [CHANGELOG.md](CHANGELOG.md) for details.
 
 **Community:** join the [Smart Notch Discord](https://discord.gg/hsAYVpVeas) to get updates first, see what's coming next, report bugs and suggest features.
 

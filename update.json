@@ -1,16 +1,18 @@
 {
-  "version": "7.3.2",
+  "version": "7.3.3",
   "changelog": [
-    "New: Teleprompter. Read your script right under the camera at the pace you set. Free for scripts up to 300 words; Pro removes the limit and hides the notch from screen shares and recordings.",
-    "With the notch pinned open, the screen around it now takes clicks again.",
-    "The notch clock now always matches the Windows clock.",
-    "New: Restart Smart Notch, in the tray icon's menu and in Settings, for when the notch stops responding.",
-    "Closing Smart Notch can no longer leave it hanging.",
-    "On a side notch, the music view's empty-lyrics message no longer covers the playback controls."
+    "New for Pro: Liquid glass. Clear glass that shows your screen through the notch and bends it at the edges.",
+    "New: Theme on the closed notch. Your material and effects can now show on the closed notch too.",
+    "New: Date beside the clock. Choose Day, Date or Off in Settings, General.",
+    "The button in the open notch's top-right corner now shows a power icon, so it is clear it quits Smart Notch.",
+    "Alt+F4 or Ctrl+W pressed while the notch has focus no longer closes it.",
+    "Double-clicking the slim line brings the notch back every time.",
+    "Choosing Notch, Pill or Bar now leaves slim-line mode, so the new style shows straight away.",
+    "Fullscreen music: a song without lyrics now brings the cover to the centre smoothly and says there are no lyrics, instead of looking stuck."
   ],
   "highlight": {
-    "title": "Meet the Teleprompter",
-    "text": "Read your script right under the camera, at the pace you set. Free for scripts up to 300 words; Pro removes the limit and hides the notch from screen shares.",
-    "image": "https://raw.githubusercontent.com/Avenger11764/Smart-notch/main/whats-new/7.3.2-teleprompter.webp"
+    "title": "Meet Liquid glass",
+    "text": "A clear glass notch for Pro: it shows your screen through the notch and bends it at the edges, with no tint and no blur.",
+    "image": "https://raw.githubusercontent.com/Avenger11764/Smart-notch/main/whats-new/7.3.3-liquid-glass.webp"
   }
 }

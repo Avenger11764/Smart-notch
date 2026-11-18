@@ -1,5 +1,20 @@
 # Release notes
 
+## 7.3.3 — released
+
+![Liquid glass in Smart Notch](whats-new/7.3.3-liquid-glass.webp)
+
+- **New for Pro: Liquid glass.** A clear glass notch that shows your screen through it and bends it at the edges, with no tint and no blur. Turn it on in Settings › Appearance › Material.
+- **New: Theme on the closed notch.** Your material and effects can now show on the closed notch too.
+- **New: Date beside the clock.** Choose Day, Date or Off in Settings › General.
+- **Clear quit button.** The button in the open notch's top-right corner now shows a power icon, so it is clear it quits Smart Notch.
+- **No accidental closing.** Alt+F4 or Ctrl+W pressed while the notch has focus no longer closes it.
+- **Slim line comes back.** Double-clicking the slim line brings the notch back every time.
+- **Style changes show.** Choosing Notch, Pill or Bar now leaves slim-line mode, so the new style shows straight away.
+- **Fullscreen music.** A song without lyrics now brings the cover to the centre smoothly and says there are no lyrics, instead of looking stuck.
+
+Available now through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565). Update availability can vary by device and market.
+
 ## 7.3.2 — released
 
 ![Teleprompter in Smart Notch](whats-new/7.3.2-teleprompter.webp)

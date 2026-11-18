@@ -8,7 +8,7 @@ A Dynamic Island–style notch for Windows: music with synced lyrics, system sta
 
 This is the public product and support repository. The application source is maintained privately. You don't need GitHub or developer tools to install the app.
 
-**Latest: 7.3.2 — live in Microsoft Store.** A new Teleprompter: read your script right under the camera, at the pace you set. Free for scripts up to 300 words; Pro removes the limit and hides the notch from screen shares. Also: a pinned notch lets clicks through again, the clock always matches Windows, and a new Restart option. See [CHANGELOG.md](CHANGELOG.md) for details.
+**Latest: 7.3.3 — live in Microsoft Store.** New for Pro: Liquid glass, a clear glass notch that shows your screen through it and bends it at the edges. Also: your theme on the closed notch, a date beside the clock, and fixes for the slim line, accidental closing and fullscreen music. See [CHANGELOG.md](CHANGELOG.md) for details.
 
 **Community:** join the [Smart Notch Discord](https://discord.gg/hsAYVpVeas) to get updates first, see what's coming next, report bugs and suggest features.
 

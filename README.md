@@ -8,7 +8,7 @@ A Dynamic Island–style notch for Windows: music with synced lyrics, system sta
 
 This is the public product and support repository. The application source is maintained privately. You don't need GitHub or developer tools to install the app.
 
-**Latest: 7.3.3 — live in Microsoft Store.** New for Pro: Liquid glass, a clear glass notch that shows your screen through it and bends it at the edges. Also: your theme on the closed notch, a date beside the clock, and fixes for the slim line, accidental closing and fullscreen music. See [CHANGELOG.md](CHANGELOG.md) for details.
+**Latest: 7.3.4 — live in Microsoft Store.** Meet Orbit, a radial menu from the maker of Smart Notch, in Settings › Orbit; Smart Notch users get 7 days of Orbit Pro free. Also new in 7.3.3: Liquid glass for Pro. See [CHANGELOG.md](CHANGELOG.md) for details.
 
 **Community:** join the [Smart Notch Discord](https://discord.gg/hsAYVpVeas) to get updates first, see what's coming next, report bugs and suggest features.
 

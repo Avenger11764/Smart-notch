@@ -1,18 +1,7 @@
 {
-  "version": "7.3.3",
+  "version": "7.3.4",
   "changelog": [
-    "New for Pro: Liquid glass. Clear glass that shows your screen through the notch and bends it at the edges.",
-    "New: Theme on the closed notch. Your material and effects can now show on the closed notch too.",
-    "New: Date beside the clock. Choose Day, Date or Off in Settings, General.",
-    "The button in the open notch's top-right corner now shows a power icon, so it is clear it quits Smart Notch.",
-    "Alt+F4 or Ctrl+W pressed while the notch has focus no longer closes it.",
-    "Double-clicking the slim line brings the notch back every time.",
-    "Choosing Notch, Pill or Bar now leaves slim-line mode, so the new style shows straight away.",
-    "Fullscreen music: a song without lyrics now brings the cover to the centre smoothly and says there are no lyrics, instead of looking stuck."
-  ],
-  "highlight": {
-    "title": "Meet Liquid glass",
-    "text": "A clear glass notch for Pro: it shows your screen through the notch and bends it at the edges, with no tint and no blur.",
-    "image": "https://raw.githubusercontent.com/Avenger11764/Smart-notch/main/whats-new/7.3.3-liquid-glass.webp"
-  }
+    "New in Settings: Orbit, a radial menu from the maker of Smart Notch. Smart Notch users get 7 days of Orbit Pro free instead of 1.",
+    "On a side notch, the update notice's What's new button no longer wraps onto two lines."
+  ]
 }

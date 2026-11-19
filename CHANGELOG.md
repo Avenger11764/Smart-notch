@@ -1,5 +1,13 @@
 # Release notes
 
+## 7.3.4 — released
+
+- **New: Orbit, from the maker of Smart Notch.** Orbit is a radial menu for Windows: press a shortcut and your apps, files and actions open in a wheel around your pointer. Find it in Settings › Orbit.
+- **Exclusive for Smart Notch users:** 7 days of Orbit Pro free, instead of the usual 1-day trial.
+- **Side notch.** The update notice's What's new button no longer wraps onto two lines.
+
+Available now through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565). Update availability can vary by device and market.
+
 ## 7.3.3 — released
 
 ![Liquid glass in Smart Notch](whats-new/7.3.3-liquid-glass.webp)

@@ -1,5 +1,19 @@
 # Release notes
 
+## 7.3.5 — coming soon to Microsoft Store
+
+![Capture and Smart Morph in Smart Notch](whats-new/7.3.5-capture-smart-morph.webp)
+
+- **New, free for everyone: Capture.** Take a screenshot of the full screen or an area, or record your screen with system sound and microphone, from the notch's new camera tab or the Screenshot and Record buttons on Home.
+- **New for Pro (beta): Smart Morph.** The closed notch reshapes itself for music, the Focus timer, charging and battery, and finished downloads. Turn it on in Settings › Widgets.
+- **Your tabs, your way.** Open the notch on the last tab you used, and choose the order of the notch's tabs.
+- **Saving fixed.** On some PCs, settings and Notchy changes could fail to save.
+- **Pro price.** The price no longer shows "??" in place of the currency sign.
+- **AI agent alerts** no longer take keyboard focus from the app you are typing in.
+- **Downloads.** Download sizes now also show for Opera, Vivaldi and Arc.
+
+Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565) once certified. Update availability can vary by device and market.
+
 ## 7.3.4 — released
 
 - **New: Orbit, from the maker of Smart Notch.** Orbit is a radial menu for Windows: press a shortcut and your apps, files and actions open in a wheel around your pointer. Find it in Settings › Orbit.

@@ -10,6 +10,8 @@ This is the public product and support repository. The application source is mai
 
 **Latest: 7.3.4 — live in Microsoft Store.** Meet Orbit, a radial menu from the maker of Smart Notch, in Settings › Orbit; Smart Notch users get 7 days of Orbit Pro free. Also new in 7.3.3: Liquid glass for Pro. See [CHANGELOG.md](CHANGELOG.md) for details.
 
+**Coming soon: 7.3.5.** Capture, free for everyone: screenshots and screen recording with system sound and microphone, right from the notch. And for Pro, in beta: Smart Morph, which reshapes the closed notch for music, focus, power and downloads.
+
 **Community:** join the [Smart Notch Discord](https://discord.gg/hsAYVpVeas) to get updates first, see what's coming next, report bugs and suggest features.
 
 ## What it does

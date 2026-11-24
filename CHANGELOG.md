@@ -1,6 +1,6 @@
 # Release notes
 
-## 7.3.5 — coming soon to Microsoft Store
+## 7.3.5 — released
 
 ![Capture and Smart Morph in Smart Notch](whats-new/7.3.5-capture-smart-morph.webp)
 
@@ -11,8 +11,6 @@
 - **Pro price.** The price no longer shows "??" in place of the currency sign.
 - **AI agent alerts** no longer take keyboard focus from the app you are typing in.
 - **Downloads.** Download sizes now also show for Opera, Vivaldi and Arc.
-
-Available through [Microsoft Store](https://apps.microsoft.com/detail/9N1D46F5X565) once certified. Update availability can vary by device and market.
 
 ## 7.3.4 — released
 

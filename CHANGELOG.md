@@ -1,5 +1,11 @@
 # Release notes
 
+## 7.3.6 — released
+
+- **Reopens where you left it.** The notch now opens on the tab you closed it on. To always open on Home, turn off Settings › General › Open on the last tab.
+- **Drag to reorder.** Press a tab in the open notch and slide it to a new spot; the order is saved.
+- **Lighter on CPU.** Less work while music plays with the notch closed.
+
 ## 7.3.5 — released
 
 ![Capture and Smart Morph in Smart Notch](whats-new/7.3.5-capture-smart-morph.webp)

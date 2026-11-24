@@ -8,7 +8,7 @@ A Dynamic Island–style notch for Windows: music with synced lyrics, system sta
 
 This is the public product and support repository. The application source is maintained privately. You don't need GitHub or developer tools to install the app.
 
-**Latest: 7.3.5 — live in Microsoft Store.** Capture, free for everyone: screenshots and screen recording with system sound and microphone, right from the notch. And for Pro, in beta: Smart Morph, which reshapes the closed notch for music, focus, power and downloads. Also: open on your last tab, choose the tab order, and a fix for settings that could fail to save. See [CHANGELOG.md](CHANGELOG.md) for details.
+**Latest: 7.3.6 — live in Microsoft Store.** The notch now reopens on the tab you closed it on, and you can drag its tabs into the order you like. Also new in 7.3.5: Capture, free screenshots and screen recording from the notch, and Smart Morph for Pro (beta). See [CHANGELOG.md](CHANGELOG.md) for details.
 
 **Community:** join the [Smart Notch Discord](https://discord.gg/hsAYVpVeas) to get updates first, see what's coming next, report bugs and suggest features.
 

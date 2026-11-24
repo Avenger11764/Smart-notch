@@ -1,17 +1,13 @@
 {
-  "version": "7.3.5",
+  "version": "7.3.6",
   "changelog": [
-    "New, free for everyone: Capture. Take a screenshot of the full screen or an area, or record your screen with system sound and microphone, from the notch's new camera tab or the Screenshot and Record buttons on Home.",
-    "New for Pro (beta): Smart Morph. The closed notch reshapes itself for music, the Focus timer, charging and battery, and finished downloads. Settings, Widgets, Smart Morph.",
-    "New in Settings: open the notch on the last tab you used, and choose the order of the notch's tabs.",
-    "Fixed: on some PCs, settings and Notchy changes could fail to save.",
-    "Fixed: the Pro price no longer shows \"??\" in place of the currency sign.",
-    "AI agent alerts no longer take keyboard focus from the app you are typing in.",
-    "Download sizes now also show for Opera, Vivaldi and Arc."
-  ],
-  "highlight": {
-    "title": "Meet Capture and Smart Morph",
-    "text": "Capture takes screenshots and records your screen from the notch, free for everyone. Smart Morph (Pro, beta) reshapes the notch for music, focus, power and downloads. Turn it on in Settings, Widgets.",
-    "image": "https://raw.githubusercontent.com/Avenger11764/Smart-notch/main/whats-new/7.3.5-capture-smart-morph.webp"
-  }
+    "The notch now reopens on the tab you closed it on. To always open on Home, turn off Settings, General, Behaviour, Open on the last tab.",
+    "New: drag the tabs in the open notch to put them in the order you like.",
+    "Uses less CPU while music plays with the notch closed.",
+    "From 7.3.5: Capture, free for everyone. Take a screenshot of the full screen or an area, or record your screen with system sound and microphone, from the notch.",
+    "From 7.3.5: Smart Morph for Pro (beta). The closed notch reshapes itself for music, the Focus timer, charging and battery, and finished downloads. Settings, Widgets, Smart Morph.",
+    "From 7.3.5: choose the order of the notch's tabs in Settings, Widgets, Tab order.",
+    "From 7.3.5: fixed settings and Notchy changes that could fail to save on some PCs, and the Pro price showing \"??\" in place of the currency sign.",
+    "From 7.3.5: AI agent alerts no longer take keyboard focus, and download sizes show for Opera, Vivaldi and Arc."
+  ]
 }

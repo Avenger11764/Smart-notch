@@ -1,13 +1,17 @@
 {
-  "version": "7.3.6",
+  "version": "7.3.8",
   "changelog": [
-    "The notch now reopens on the tab you closed it on. To always open on Home, turn off Settings, General, Behaviour, Open on the last tab.",
-    "New: drag the tabs in the open notch to put them in the order you like.",
-    "Uses less CPU while music plays with the notch closed.",
-    "From 7.3.5: Capture, free for everyone. Take a screenshot of the full screen or an area, or record your screen with system sound and microphone, from the notch.",
-    "From 7.3.5: Smart Morph for Pro (beta). The closed notch reshapes itself for music, the Focus timer, charging and battery, and finished downloads. Settings, Widgets, Smart Morph.",
-    "From 7.3.5: choose the order of the notch's tabs in Settings, Widgets, Tab order.",
-    "From 7.3.5: fixed settings and Notchy changes that could fail to save on some PCs, and the Pro price showing \"??\" in place of the currency sign.",
-    "From 7.3.5: AI agent alerts no longer take keyboard focus, and download sizes show for Opera, Vivaldi and Arc."
-  ]
+    "New: the fullscreen listening room is free for everyone, with 9 lyric styles: Classic, Pop, Focus, Neon, Wheel, Fisheye, Chat, Code and Branches.",
+    "New for Pro: 7 more lyric styles (Constellation, Bounce, Warp, Poster, Echo, Pulse and Rain), plus the Ring, Mirror and Particles visualizers and Edge Light in the listening room.",
+    "Lyrics follow the song more closely: word-by-word timing for more songs, an allowance for Bluetooth headphone delay, and the sync you set is remembered for each song.",
+    "New: Settings, General, Performance. Choose Battery saver, Balanced (the default), Best, or Auto, which switches to Battery saver on battery below 30%.",
+    "Clipboard: clips are grouped by day, the arrow keys and Enter pick a clip from search, and a button takes you back to the newest clip.",
+    "Fixed: alerts on the closed notch no longer block clicks on the browser tabs or page below them.",
+    "Fixed: Smart Notch no longer asks to send a crash report after Windows closed it while signing out or shutting down."
+  ],
+  "highlight": {
+    "title": "Meet the listening room for everyone",
+    "text": "The fullscreen listening room is now free, with 9 lyric styles like Chat, Code and Fisheye. Pro adds 7 more, including Constellation, Rain and Pulse. Play a song, open the notch's music tab and choose Fullscreen.",
+    "image": "https://raw.githubusercontent.com/Avenger11764/Smart-notch/main/whats-new/7.3.8-listening-room.webp"
+  }
 }

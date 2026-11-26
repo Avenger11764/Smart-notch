@@ -1,5 +1,17 @@
 # Release notes
 
+## 7.3.8 — released
+
+![The listening room in Smart Notch](whats-new/7.3.8-listening-room.webp)
+
+- **New, free for everyone: the listening room.** Open the fullscreen listening room from the notch's music tab and pick from 9 lyric styles: Classic, Pop, Focus, Neon, Wheel, Fisheye, Chat, Code and Branches.
+- **New for Pro: 7 more lyric styles** (Constellation, Bounce, Warp, Poster, Echo, Pulse and Rain), plus the Ring, Mirror and Particles visualizers and Edge Light in the listening room.
+- **Lyrics stay in time.** Word-by-word timing for more songs, an allowance for Bluetooth headphone delay, and the sync you set is remembered for each song.
+- **New: Performance setting.** Settings › General › Performance: Battery saver, Balanced (the default), Best, or Auto, which switches to Battery saver on battery below 30%.
+- **Clipboard.** Clips are grouped by day, the arrow keys and Enter pick a clip from search, and a button takes you back to the newest clip.
+- **Fixed:** alerts on the closed notch no longer block clicks on the browser tabs or page below them.
+- **Fixed:** Smart Notch no longer asks to send a crash report after Windows closed it while signing out or shutting down.
+
 ## 7.3.6 — released
 
 - **Reopens where you left it.** The notch now opens on the tab you closed it on. To always open on Home, turn off Settings › General › Open on the last tab.

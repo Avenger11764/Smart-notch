@@ -1,5 +1,13 @@
 # Release notes
 
+## 7.3.9 — released
+
+Fixes only; the features are the same as 7.3.8.
+
+- **Fixed:** the fullscreen listening room no longer stutters. It draws far fewer full-screen effects per frame, which helps most on large monitors.
+- **Fixed:** a crash when opening the fullscreen lyrics with some lyric styles. If a lyric style ever fails, the room now switches to Classic instead of closing.
+- **Fixed:** Hindi and other Indic lyrics no longer show dotted circles in the Rain and Code styles.
+
 ## 7.3.8 — released
 
 ![The listening room in Smart Notch](whats-new/7.3.8-listening-room.webp)

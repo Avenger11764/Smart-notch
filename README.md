@@ -8,7 +8,7 @@ A Dynamic Island–style notch for Windows: music with synced lyrics, system sta
 
 This is the public product and support repository. The application source is maintained privately. You don't need GitHub or developer tools to install the app.
 
-**Latest: 7.3.8 — live in Microsoft Store.** The fullscreen listening room is now free for everyone, with 9 lyric styles; Pro adds 7 more, plus visualizers and Edge Light. Also new: a Performance setting and clipboard improvements. See [CHANGELOG.md](CHANGELOG.md) for details.
+**Latest: 7.3.9 — live in Microsoft Store.** Fixes the fullscreen listening room stuttering, a fullscreen lyrics crash, and dotted circles in Hindi lyrics. New in 7.3.8: the fullscreen listening room is now free for everyone, with 9 lyric styles; Pro adds 7 more, plus visualizers and Edge Light. Also new: a Performance setting and clipboard improvements. See [CHANGELOG.md](CHANGELOG.md) for details.
 
 **Community:** join the [Smart Notch Discord](https://discord.gg/hsAYVpVeas) to get updates first, see what's coming next, report bugs and suggest features.
 
